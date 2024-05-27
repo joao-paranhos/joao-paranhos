@@ -1,4 +1,4 @@
-## EI! Eu sou o João Aurélio, estudante de Software Testing e de tecnologia!
+## EI! Eu sou o João Aurélio, estudante de Software Testing!
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
