@@ -17,5 +17,8 @@
 <div> 
   
 <a href="https://www.linkedin.com/in/jo%C3%A3o-aur%C3%A9lio-950ab8203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
   
 </div>
+
+![snake gif](https://github.com/joao-paranhos/joao-paranhos/blob/output/github-contribution-grid-snake.svg)
