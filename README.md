@@ -1,7 +1,7 @@
 ## Eu sou o João Aurélio, estudante de Software Testing!
 
 <div style="display: inline_block"><br>
-<img align="center" alt="Rafa-Js" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:402/1*Gt2wknIMvc3P0KFadp1mlQ.png">
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://www.gravityer.com/_next/image?url=https%3A%2F%2Fvivid-cow-9924242169.media.strapiapp.com%2Frobot_framework_47ed277490.png&w=1920&q=75">
 <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Joao-Cypress" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg">
 </div>
